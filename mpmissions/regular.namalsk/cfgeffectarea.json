@@ -1,0 +1,312 @@
+{
+    "Areas": [
+        { 	"AreaName": "Athena-3", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTriggerNam",
+			"Data": { 
+				"Pos": [ 3592, 120, 6709 ],
+				"Radius": 80,
+				"PosHeight": 70,
+				"NegHeight": 0,
+				"InnerRingCount": 0,
+				"InnerPartDist": 0,
+				"OuterRingToggle": 0, 
+				"OuterPartDist": 0, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "nst/ns_dayz/effects/particles/contaminated_underground_bigone"
+				},
+			"PlayerData": {
+				"AroundPartName": "nst/ns_dayz/effects/particles/contaminated_underground_around",
+				"TinyPartName": "nst/ns_dayz/effects/particles/contaminated_underground_tiny",
+				"PPERequesterType": "PPERequester_NamContamination"
+			}
+		}, 	
+	{	"AreaName": "Sebjan-Marsh", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTriggerNam",
+			"Data": { 
+				"Pos": [ 6750, 0, 9915 ],
+				"Radius": 350,
+				"PosHeight": 70,
+				"NegHeight": 5,
+				"InnerRingCount": 2,
+				"InnerPartDist": 35,
+				"OuterRingToggle": true, 
+				"OuterPartDist": 20, 
+				"OuterOffset": -5, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/spooky_mist"
+				},
+			"PlayerData": {
+				"AroundPartName": "contaminated_area_gas_around",
+				"TinyPartName": "contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		},
+	{	"AreaName": "Sebjan-Dam", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTriggerNam",
+			"Data": { 
+				"Pos": [ 5670, 0, 9945 ],
+				"Radius": 175,
+				"PosHeight": 70,
+				"NegHeight": 5,
+				"InnerRingCount": 2,
+				"InnerPartDist": 35,
+				"OuterRingToggle": true, 
+				"OuterPartDist": 20, 
+				"OuterOffset": -5, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/spooky_mist"
+				},
+			"PlayerData": {
+				"AroundPartName": "contaminated_area_gas_around",
+				"TinyPartName": "contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		},
+	{	"AreaName": "Lubjansk-Bay-1", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTriggerNam",
+			"Data": { 
+				"Pos": [ 4100, 0, 10545 ],
+				"Radius": 150,
+				"PosHeight": 70,
+				"NegHeight": 5,
+				"InnerRingCount": 2,
+				"InnerPartDist": 35,
+				"OuterRingToggle": true, 
+				"OuterPartDist": 20, 
+				"OuterOffset": -5, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/spooky_mist"
+				},
+			"PlayerData": {
+				"AroundPartName": "contaminated_area_gas_around",
+				"TinyPartName": "contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		},
+	{	"AreaName": "Lubjansk-Bay-2", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTriggerNam",
+			"Data": { 
+				"Pos": [ 4340, 0, 10335 ],
+				"Radius": 150,
+				"PosHeight": 70,
+				"NegHeight": 5,
+				"InnerRingCount": 2,
+				"InnerPartDist": 35,
+				"OuterRingToggle": true, 
+				"OuterPartDist": 20, 
+				"OuterOffset": -5, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/spooky_mist"
+				},
+			"PlayerData": {
+				"AroundPartName": "contaminated_area_gas_around",
+				"TinyPartName": "contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		},
+	{	"AreaName": "Lubjansk-Bay-3", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTriggerNam",
+			"Data": { 
+				"Pos": [ 4635, 0, 10275 ],
+				"Radius": 150,
+				"PosHeight": 70,
+				"NegHeight": 5,
+				"InnerRingCount": 2,
+				"InnerPartDist": 35,
+				"OuterRingToggle": true, 
+				"OuterPartDist": 20, 
+				"OuterOffset": -5, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/spooky_mist"
+				},
+			"PlayerData": {
+				"AroundPartName": "contaminated_area_gas_around",
+				"TinyPartName": "contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		},
+	{	"AreaName": "Lubjansk-Bay-4", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTriggerNam",
+			"Data": { 
+				"Pos": [ 5130, 0, 10160 ],
+				"Radius": 350,
+				"PosHeight": 70,
+				"NegHeight": 5,
+				"InnerRingCount": 2,
+				"InnerPartDist": 35,
+				"OuterRingToggle": true, 
+				"OuterPartDist": 20, 
+				"OuterOffset": -5, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/spooky_mist"
+				},
+			"PlayerData": {
+				"AroundPartName": "contaminated_area_gas_around",
+				"TinyPartName": "contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		},
+	{	"AreaName": "Sebjan-Reservoir", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTriggerNam",
+			"Data": { 
+				"Pos": [ 6100, 0, 9945 ],
+				"Radius": 300,
+				"PosHeight": 70,
+				"NegHeight": 5,
+				"InnerRingCount": 2,
+				"InnerPartDist": 35,
+				"OuterRingToggle": true, 
+				"OuterPartDist": 20, 
+				"OuterOffset": -5, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/spooky_mist"
+				},
+			"PlayerData": {
+				"AroundPartName": "contaminated_area_gas_around",
+				"TinyPartName": "contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		},
+	{	"AreaName": "Nemsk-Bay-1", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTriggerNam",
+			"Data": { 
+				"Pos": [ 7315, 0, 9630 ],
+				"Radius": 250,
+				"PosHeight": 70,
+				"NegHeight": 5,
+				"InnerRingCount": 2,
+				"InnerPartDist": 35,
+				"OuterRingToggle": true, 
+				"OuterPartDist": 20, 
+				"OuterOffset": -5, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/spooky_mist"
+				},
+			"PlayerData": {
+				"AroundPartName": "contaminated_area_gas_around",
+				"TinyPartName": "contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		},
+	{	"AreaName": "Nemsk-Bay-2", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTriggerNam",
+			"Data": { 
+				"Pos": [ 7750, 0, 9350 ],
+				"Radius": 200,
+				"PosHeight": 70,
+				"NegHeight": 5,
+				"InnerRingCount": 2,
+				"InnerPartDist": 35,
+				"OuterRingToggle": true, 
+				"OuterPartDist": 20, 
+				"OuterOffset": -5, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/spooky_mist"
+				},
+			"PlayerData": {
+				"AroundPartName": "contaminated_area_gas_around",
+				"TinyPartName": "contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		},
+	{	"AreaName": "Nemsk-Bay-3", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTriggerNam",
+			"Data": { 
+				"Pos": [ 8100, 0, 9100 ],
+				"Radius": 200,
+				"PosHeight": 70,
+				"NegHeight": 5,
+				"InnerRingCount": 2,
+				"InnerPartDist": 35,
+				"OuterRingToggle": true, 
+				"OuterPartDist": 20, 
+				"OuterOffset": -5, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/spooky_mist"
+				},
+			"PlayerData": {
+				"AroundPartName": "contaminated_area_gas_around",
+				"TinyPartName": "contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		},
+	{	"AreaName": "C-130J-Crash", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTriggerNam",
+			"Data": { 
+				"Pos": [ 3192, 0, 7507 ],
+				"Radius": 100,
+				"PosHeight": 70,
+				"NegHeight": 5,
+				"InnerRingCount": 2,
+				"InnerPartDist": 35,
+				"OuterRingToggle": true, 
+				"OuterPartDist": 20, 
+				"OuterOffset": -5, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/spooky_mist"
+				},
+			"PlayerData": {
+				"AroundPartName": "contaminated_area_gas_around",
+				"TinyPartName": "contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		},
+	{	"AreaName": "Athena-2", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTrigger",
+			"Data": { 
+				"Pos": [ 4990, 0, 6610 ],
+				"Radius": 60,
+				"PosHeight": 25,
+				"NegHeight": 100,
+				"InnerRingCount": 2,
+				"InnerPartDist": 35,
+				"OuterRingToggle": true, 
+				"OuterPartDist": 20, 
+				"OuterOffset": -5, 
+				"VerticalLayers": 2,
+				"VerticalOffset": 15,
+				"ParticleName": "graphics/particles/spooky_mist"
+				},
+			"PlayerData": {
+				"AroundPartName": "contaminated_area_gas_around",
+				"TinyPartName": "contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		}
+    ],
+
+	"SafePositions":[
+		[3540.62, 6248.10],
+		[3452.39, 6956.50],
+		[3428.58, 8227.02],
+		[3758.89, 8673.79],
+		[12120.38, 7947.39],
+		[12290.56, 7520.61]
+	]
+}

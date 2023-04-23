@@ -1,0 +1,5 @@
+// Updates the DayZ server to the latest version (doesn't update mods!)
+
+force_install_dir "C:\Users\Admin\Desktop\Servers\DayZ"
+login btodell
+app_update 223350 validate

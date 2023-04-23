@@ -1,0 +1,54 @@
+{
+    "MagicCrateExchangeType": "NONE",
+    "MagicCratePrice": 950,
+    "CanCrateChangeLocation": 1,
+    "MinimumRollBeforeFailChance": 1,
+    "BoxFailChance": 80,
+    "PossibleBoxPositions": [{
+            "Position": [
+                11028.5,
+                1023.5,
+                1560.94
+            ],
+            "Orientation": [
+                5.35992, -0.0, -0.0
+            ]
+        },
+        {
+            "Position": [
+                1,
+                5,
+                7
+            ],
+            "Orientation": [
+                87, -0.0, -0.0
+            ]
+        }
+    ],
+    "PossibleBoxItems": [{
+            "Item": "M4A1_Black",
+            "Attachments": [
+                "M4_MPBttstck_Black",
+                "M4_MPHndgrd_Black",
+                "M4_CarryHandleOptic"
+            ],
+            "Mag": "Mag_STANAG_60Rnd"
+        },
+        {
+            "Item": "AKM",
+            "Attachments": [
+                "AK_PlasticBttstck",
+                "AK_PlasticHndgrd"
+            ],
+            "Mag": "Mag_AKM_Drum75Rnd"
+        },
+		{
+			"Item": "ER7_Gauss",
+			"Attachments": [
+				"ER7_Gauss_Battery",
+				"ER7_Scope"
+			],
+			"Mag": "ER7_Gauss_Magazine"
+		}
+    ]
+}

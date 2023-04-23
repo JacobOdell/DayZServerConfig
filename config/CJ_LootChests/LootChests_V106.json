@@ -1,0 +1,1663 @@
+{
+    "EnableDebug": 1,
+    "DeleteLogs": 0,
+    "MaxSpareMags": 0,
+	"RandomQuantity": 0,
+    "LootChestsLocations": [
+        {
+            "name": "C130_Crash",
+            "number": 1,
+            "pos": [
+                "3191.14 118.508 7509.62|-5.27031 0.338469 -1.31984"
+            ],
+            "keyclass": "CJ_Key1",
+            "openable": 0,
+            "chest": [
+                "CJ_LootChest_Wood_Brown_Large"
+            ],
+            "lootrandomize": 0.3,
+            "light": 0,
+            "loot": [
+				"Mag_AKM_Drum75Rnd",
+				
+				"Mag_STANAG_60Rnd",
+
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				
+				"AmmoBox_556x45_20Rnd",
+				"AmmoBox_556x45_20Rnd",
+				"AmmoBox_556x45_20Rnd",
+				"AmmoBox_556x45_20Rnd",
+				"AmmoBox_556x45_20Rnd",
+				"AmmoBox_556x45_20Rnd",
+				"AmmoBox_556x45_20Rnd",
+				"AmmoBox_556x45_20Rnd",
+				"AmmoBox_556x45_20Rnd",
+				"AmmoBox_556x45_20Rnd",
+				"AmmoBox_556x45_20Rnd",
+				"AmmoBox_556x45_20Rnd",
+				"AmmoBox_556x45_20Rnd",
+				"AmmoBox_556x45_20Rnd",
+				"AmmoBox_556x45_20Rnd",
+				
+				"LC_Table_Jacob_Ammo_Civilian",
+				"LC_Table_Jacob_Ammo_Civilian",
+				"LC_Table_Jacob_Ammo_Civilian",
+				"LC_Table_Jacob_Ammo_Civilian",
+				"LC_Table_Jacob_Ammo_Civilian",
+				"LC_Table_Jacob_Ammo_Civilian",
+				"LC_Table_Jacob_Ammo_Civilian",
+				"LC_Table_Jacob_Ammo_Civilian",
+				"LC_Table_Jacob_Ammo_Civilian",
+				"LC_Table_Jacob_Ammo_Civilian",
+				"LC_Table_Jacob_Ammo_Civilian",
+				"LC_Table_Jacob_Ammo_Civilian",
+				"LC_Table_Jacob_Ammo_Civilian",
+				"LC_Table_Jacob_Ammo_Civilian",
+				"LC_Table_Jacob_Ammo_Civilian",
+				
+				"LC_Table_Attachments_Army",
+				"LC_Table_Attachments_Army",
+				"LC_Table_Attachments_Army",
+				"LC_Table_Attachments_Army",
+				"LC_Table_Attachments_Army",
+				"LC_Table_Attachments_Army",
+				"LC_Table_Attachments_Army",
+				
+				"LC_Table_Attachments_Police",
+				"LC_Table_Attachments_Police",
+				"LC_Table_Attachments_Police",
+				"LC_Table_Attachments_Police"
+            ]
+        },
+		{
+            "name": "Airfield",
+            "number": 1,
+            "pos": [
+                "6351.8 21.0 9405.4|90.000000 0.000000 0.000000"
+            ],
+            "keyclass": "CJ_Key2",
+            "openable": 0,
+            "chest": [
+                "CJ_LootChest_Wood_Brown_Foods_Large"
+            ],
+            "lootrandomize": 0.1,
+            "light": 0,
+            "loot": [
+                "LC_Table_Jacob_Food",
+                "LC_Table_Jacob_Food",
+                "LC_Table_Jacob_Food",
+                "LC_Table_Jacob_Food",
+                "LC_Table_Jacob_Food",
+                "LC_Table_Jacob_Food",
+                "LC_Table_Jacob_Food",
+                "LC_Table_Jacob_Food",
+                "LC_Table_Jacob_Food",
+                "LC_Table_Jacob_Food",
+                "LC_Table_Jacob_Food",
+                "LC_Table_Jacob_Food",
+                "LC_Table_Jacob_Food",
+                "LC_Table_Jacob_Food",
+                "LC_Table_Jacob_Food",
+                "LC_Table_Jacob_Food",
+                "LC_Table_Jacob_Food",
+                "LC_Table_Jacob_Food",
+                "LC_Table_Jacob_Food",
+                "LC_Table_Jacob_Food",
+                "LC_Table_Jacob_Food",
+                "LC_Table_Jacob_Food",
+                "LC_Table_Jacob_Water",
+                "LC_Table_Jacob_Water",
+                "LC_Table_Jacob_Water",
+                "LC_Table_Jacob_Water",
+                "LC_Table_Jacob_Water",
+				"LC_Table_Jacob_Water",
+                "LC_Table_Jacob_Water"
+            ]
+        },
+		{
+            "name": "Mountain_Ammo",
+            "number": 1,
+            "pos": [
+                "5290.8 251.8 7095.5|0.000000 0.000000 0.000000"
+            ],
+            "keyclass": "CJ_Key3",
+            "openable": 0,
+            "chest": [
+                "CJ_LootChest_Olive_Large"
+            ],
+            "lootrandomize": 0.5,
+            "light": 0,
+            "loot": [
+				"Mag_AKM_Drum75Rnd",
+				
+				"Mag_STANAG_60Rnd",
+				
+				"Mag_MP5_30Rnd",
+				
+				"Mag_UMP_25Rnd",
+				
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				
+				"LC_Table_Jacob_Ammo_Civilian",
+				"LC_Table_Jacob_Ammo_Civilian",
+				"LC_Table_Jacob_Ammo_Civilian",
+				"LC_Table_Jacob_Ammo_Civilian",
+				"LC_Table_Jacob_Ammo_Civilian",
+				"LC_Table_Jacob_Ammo_Civilian",
+				"LC_Table_Jacob_Ammo_Civilian",
+				"LC_Table_Jacob_Ammo_Civilian",
+				"LC_Table_Jacob_Ammo_Civilian",
+				
+				"LC_Table_Attachments_Army",
+				"LC_Table_Attachments_Army",
+				"LC_Table_Attachments_Army",
+				"LC_Table_Attachments_Army",
+				
+				"LC_Table_Attachments_Police",
+				"LC_Table_Attachments_Police",
+				"LC_Table_Attachments_Police",
+				"LC_Table_Attachments_Police"
+            ]
+        },
+		{
+            "name": "Tunnel",
+            "number": 1,
+            "pos": [
+                "3604.4 45.3 6634.5|266.6296 0.000000 0.000000"
+            ],
+            "keyclass": "CJ_Key4",
+            "openable": 0,
+            "chest": [
+                "CJ_LootChest_Wood_Brown_Large"
+            ],
+            "lootrandomize": 0.35,
+            "light": 0,
+            "loot": [				
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				
+				"LC_Table_Jacob_Ammo_Civilian",
+				"LC_Table_Jacob_Ammo_Civilian",
+				"LC_Table_Jacob_Ammo_Civilian",
+				"LC_Table_Jacob_Ammo_Civilian",
+				"LC_Table_Jacob_Ammo_Civilian",
+				"LC_Table_Jacob_Ammo_Civilian",
+				"LC_Table_Jacob_Ammo_Civilian",
+				"LC_Table_Jacob_Ammo_Civilian"
+            ]
+        },
+		{
+            "name": "Old_Base",
+            "number": 1,
+            "pos": [
+                "6175.0 8.1 5699.5|90.000000 0.000000 0.000000"
+            ],
+            "keyclass": "CJ_Key5",
+            "openable": 0,
+            "chest": [
+                "CJ_LootChest_Wood_Brown_Tools_Large"
+            ],
+            "lootrandomize": 0.5,
+            "light": 0,
+            "loot": [
+                "LC_Table_Jacob_Repair",
+                "LC_Table_Jacob_Repair",
+                "LC_Table_Jacob_Repair",
+                "LC_Table_Jacob_Repair",
+                "LC_Table_Jacob_Repair",
+                "LC_Table_Jacob_Repair",
+                "LC_Table_Jacob_Repair",
+                "LC_Table_Jacob_Repair",
+                "LC_Table_Jacob_Repair",
+                "LC_Table_Jacob_Repair",
+                "LC_Table_Jacob_Repair",
+				"LC_Table_Jacob_Repair",
+                "LC_Table_Jacob_Repair",
+                "LC_Table_Jacob_Repair",
+                "LC_Table_Jacob_Repair",
+                "LC_Table_Jacob_Repair",
+                "LC_Table_Jacob_Repair",
+                "LC_Table_Jacob_Repair",
+                "LC_Table_Jacob_Repair",
+                "LC_Table_Jacob_Repair",
+                "LC_Table_Jacob_Repair",
+                "LC_Table_Jacob_Repair"
+            ]
+        },
+		{
+            "name": "Sawmill",
+            "number": 1,
+            "pos": [
+                "7038.05 54 5804.8|93.000000 0.000000 0.000000"
+            ],
+            "keyclass": "CJ_Key6",
+            "openable": 0,
+            "chest": [
+                "CJ_LootChest_Wood_Brown_Tools_Large"
+            ],
+            "lootrandomize": 0.0,
+            "light": 0,
+            "loot": [
+                "CarRadiator",
+				"SparkPlug",
+				"CarBattery",
+				"TruckBattery",
+				"BatteryCharger",
+				"TireRepairKit",
+				"CanisterGasoline",
+				"CanisterGasoline",
+				"CanisterGasoline",
+				"CanisterGasoline",
+				"CanisterGasoline",
+				"LC_Table_Jacob_Wheel",
+				"LC_Table_Jacob_Wheel",
+				"LC_Table_Jacob_Wheel",
+				"LC_Table_Jacob_Wheel"
+            ]
+        },
+		{
+            "name": "Crashed_Boat",
+            "number": 1,
+            "pos": [
+                "3945.17 15.92 10254.9|-53.2972 0.000000 0.000000"
+            ],
+            "keyclass": "CJ_Key7",
+            "openable": 0,
+            "chest": [
+                "CJ_LootChest_Wood_Brown_Large"
+            ],
+            "lootrandomize": 0.5,
+            "light": 0,
+            "loot": [
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				
+				"LC_Table_Jacob_Ammo_Civilian",
+				"LC_Table_Jacob_Ammo_Civilian",
+				"LC_Table_Jacob_Ammo_Civilian",
+				"LC_Table_Jacob_Ammo_Civilian",
+				"LC_Table_Jacob_Ammo_Civilian",
+				"LC_Table_Jacob_Ammo_Civilian",
+				"LC_Table_Jacob_Ammo_Civilian",
+				"LC_Table_Jacob_Ammo_Civilian",
+				"LC_Table_Jacob_Ammo_Civilian",
+				"LC_Table_Jacob_Ammo_Civilian",
+				"LC_Table_Jacob_Ammo_Civilian",
+				"LC_Table_Jacob_Ammo_Civilian",
+				"LC_Table_Jacob_Ammo_Civilian",
+				"LC_Table_Jacob_Ammo_Civilian",
+				"LC_Table_Jacob_Ammo_Civilian"
+            ]
+        },
+		{
+            "name": "NBC",
+            "number": 1,
+            "pos": [
+                "5769.5 23.2 9809.3|90.000000 0.000000 0.000000"
+            ],
+            "keyclass": "CJ_Key8",
+            "openable": 0,
+            "chest": [
+                "CJ_LootChest_Olive_Large"
+            ],
+            "lootrandomize": 0.0,
+            "light": 0,
+            "loot": [
+                "NBCJacketYellow",
+				"NBCBootsYellow",
+				"NBCPantsYellow",
+				"NBCHoodYellow",
+				"NBCGlovesYellow",
+				"AirborneMask",
+				"GasMask_Filter",
+				"GasMask_Filter",
+				"GasMask_Filter",
+				"NBCJacketYellow",
+				"NBCBootsYellow",
+				"NBCPantsYellow",
+				"NBCHoodYellow",
+				"NBCGlovesYellow",
+				"AirborneMask",
+				"GasMask_Filter",
+				"GasMask_Filter",
+				"GasMask_Filter",
+				"NBCJacketYellow",
+				"NBCBootsYellow",
+				"NBCPantsYellow",
+				"NBCHoodYellow",
+				"NBCGlovesYellow",
+				"AirborneMask",
+				"GasMask_Filter",
+				"GasMask_Filter",
+				"GasMask_Filter"
+            ]
+        },
+		{
+            "name": "Construction",
+            "number": 1,
+            "pos": [
+                "7808.11 32.8397 7723.59|0.000000 0.000000 0.000000"
+            ],
+            "keyclass": "CJ_Key9",
+            "openable": 0,
+            "chest": [
+                "CJ_LootChest_Wood_Brown_Tools_Large"
+            ],
+            "lootrandomize": 0.1,
+            "light": 0,
+            "loot": [
+                "WoodenPlank",
+                "WoodenPlank",
+                "WoodenPlank",
+                "WoodenPlank",
+				"WoodenPlank",
+                "WoodenPlank",
+                "WoodenPlank",
+                "WoodenPlank",
+				"WoodenPlank",
+                "WoodenPlank",
+                "WoodenPlank",
+                "WoodenPlank",
+				"CanisterGasoline",
+				"CanisterGasoline",
+				"CanisterGasoline",
+				"Hacksaw",
+				"Handsaw",
+                "Shovel",
+				"Hammer",
+				"Hatchet",
+				"Pliers",
+				"Rope",
+				"Rope",
+				"Rope",
+				"NailBox",
+				"NailBox",
+				"NailBox",
+				"NailBox",
+				"NailBox",
+				"NailBox",
+				"NailBox",
+				"NailBox",
+				"NailBox",
+				"NailBox",
+				"NailBox",
+				"NailBox"
+            ]
+        },
+		{
+            "name": "Bering_Outpost",
+            "number": 1,
+            "pos": [
+                "1200.42 2.55978 11861|114.742 -1.72057 3.73735"
+            ],
+            "keyclass": "CJ_Key10",
+            "openable": 0,
+            "chest": [
+                "CJ_LootChest_Wood_Brown_Large"
+            ],
+            "lootrandomize": 0.2,
+            "light": 0,
+            "loot": [
+				"M4_Suppressor",
+				"M4_Suppressor",
+				
+				"AK_Suppressor",
+				"AK_Suppressor",
+				
+				"dzn_lehs_o2tank",
+				"dzn_lehs_o2tank",
+				
+				"dzn_lehs_battery",
+				"dzn_lehs_battery",
+				
+				"dzn_apsi",
+				"dzn_apsi",
+				"dzn_apsi",
+				"dzn_apsi",
+				"dzn_apsi",
+				"dzn_apsi",
+				
+				"NVGoggles",
+				"NVGoggles",
+				"NVGoggles",
+				
+				"BG9V_X25",
+				"BG9V_X25",
+				"BG9V_X25",
+				"BG9V_X25"
+            ]
+        },
+		{
+            "name": "Athena2-1OPEN",
+            "number": 1,
+            "pos": [
+                "4994.88 17 6619.83|179.559 -0.732542 0.549977"
+            ],
+            "keyclass": "",
+            "openable": 2,
+            "chest": [
+                "CJ_LootChest_Olive_Medium"
+            ],
+            "lootrandomize": 0.5,
+            "light": 0,
+            "loot": [
+				"M4_Suppressor",
+				"AK_Suppressor",
+				
+				"dzn_lehs_o2tank",
+				"dzn_lehs_battery",
+				"dzn_blueprint_lehs",
+				"dzn_printer_filament_abs",
+				"dzn_printer_filament_tpc",
+				"dzn_printer_filament_nylon",
+				
+				"SVD",
+				
+				"AntiChemInjector",
+				
+				"RGD5Grenade",
+				"RGD5Grenade",
+                "M67Grenade",
+                "M67Grenade",
+				
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				
+				"LC_Table_Jacob_Ammo_Civilian",
+				"LC_Table_Jacob_Ammo_Civilian",
+				"LC_Table_Jacob_Ammo_Civilian",
+				"LC_Table_Jacob_Ammo_Civilian",
+				"LC_Table_Jacob_Ammo_Civilian",
+				"LC_Table_Jacob_Ammo_Civilian",
+				"LC_Table_Jacob_Ammo_Civilian",
+				"LC_Table_Jacob_Ammo_Civilian",
+				"LC_Table_Jacob_Ammo_Civilian",
+				
+				"GasMask_Filter",
+				"GasMask_Filter",
+				"GasMask_Filter",
+				
+				"AntiChemInjector",
+				"AntiChemInjector",
+				"AntiChemInjector",
+				"AntiChemInjector",
+				
+				
+				"ACOGOptic",
+				"M4_CQBBttstck_Black",
+				"M4_RISHndgrd_Black",
+				"AK_RailHndgrd_Black"
+            ]
+        },
+		{
+            "name": "Athena2-2Armory",
+            "number": 1,
+            "pos": [
+                "4965.75 28.5 6622.11|-180 0 0"
+            ],
+            "keyclass": "",
+            "openable": 2,
+            "chest": [
+                "CJ_LootChest_Olive_Large"
+            ],
+            "lootrandomize": 0.9,
+            "light": 0,
+            "loot": [
+				"CJ_Key1",
+				
+				"CJ_Key2",
+				"CJ_Key2",
+				
+				"CJ_Key3",
+				"CJ_Key3",
+				"CJ_Key3",
+				"CJ_Key3",
+				
+				"CJ_Key4",
+				"CJ_Key4",
+				"CJ_Key4",
+				"CJ_Key4",
+		
+				"CJ_Key5",
+				
+				"CJ_Key6",
+				"CJ_Key6",
+		
+				"CJ_Key7",
+				
+				"CJ_Key8",
+				
+				"CJ_Key9",
+				
+				"CJ_Key10",
+				
+				"AK101",
+				"AK101",
+				"AK101",
+				"AK101",
+				"AK74",
+				"AK74",
+				"AK74",
+				"AK74",
+				"AKS74U",
+				"AKS74U",
+				"AKS74U",
+				"AKS74U",
+				"M16A2",
+				"M16A2",
+				"AugShort",
+				"AugShort",
+				"ASVAL",
+				"ASVAL",
+				
+				"Heatpack",
+				"Heatpack",
+				"Heatpack",
+				
+				"WeaponCleaningKit",
+				
+				"M65Jacket_Black",
+				"dzn_tacticalshirt_white_ru",
+				"dzn_smershvest_white",
+				"dzn_bandana_wintercamopattern",
+				
+				"Rangefinder",
+				
+				"dzn_lehs_o2tank",
+				"dzn_lehs_battery",
+				"dzn_blueprint_lehs",
+				
+				"M4_Suppressor",
+				"M4_Suppressor",
+				"M4_Suppressor",
+				"M4_Suppressor",
+				"M4_Suppressor",
+				
+				"AK_Suppressor",
+				"AK_Suppressor",
+				"AK_Suppressor",
+				"AK_Suppressor",
+				"AK_Suppressor",
+				
+				"AntiChemInjector",
+				"AntiChemInjector",
+				"AntiChemInjector",
+				"AntiChemInjector",
+				"AntiChemInjector",
+				"AntiChemInjector",
+				"AntiChemInjector",
+				"AntiChemInjector",
+				"AntiChemInjector",
+				"AntiChemInjector",
+				"AntiChemInjector",
+				"AntiChemInjector",
+				"AntiChemInjector",
+				
+				"Mag_STANAG_60Rnd",
+				"Mag_STANAG_60Rnd",
+				
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military",
+				"LC_Table_Jacob_Ammo_Military"
+            ]
+        },
+		{
+            "name": "Athena3",
+            "number": 1,
+            "pos": [
+                "3592.29 145.112 6678.47|-97.0975 -0.401567 -0.117775"
+            ],
+            "keyclass": "",
+            "openable": 2,
+            "chest": [
+                "CJ_LootChest_Olive_Medium"
+            ],
+            "lootrandomize": 0.3,
+            "light": 0,
+            "loot": [
+				"CJ_Key2",
+				"CJ_Key3",
+				"CJ_Key10",
+				
+				"M65Jacket_Black",
+				"M65Jacket_Black",
+				
+				"Aug",
+				"AKM",
+				
+				"M4A1_Black",
+				"M4_Suppressor",
+				"M4_Suppressor",
+				"M4_Suppressor",
+				"M4_RISHndgrd_Black",
+				"M4_MPBttstck_Black",
+				"M4_T3NRDSOptic",
+				"ReflexOptic",
+				
+				"AK_Suppressor",
+				"AK_Suppressor",
+				"AK_Suppressor",
+				
+				"AntiChemInjector",
+				"AntiChemInjector",
+				"AntiChemInjector",
+				"AntiChemInjector",
+				"AntiChemInjector",
+				"AntiChemInjector",
+				"AntiChemInjector",
+				"AntiChemInjector",
+				
+				"dzn_apsi",
+				"dzn_apsi",
+				"dzn_apsi",
+				"dzn_apsi",
+				
+				"NVGoggles",
+				"NVGoggles"
+            ]
+        }
+    ],
+    "LCPredefinedWeapons": [
+        {
+            "defname": "LC_predefined_AK101",
+            "weapon": "AK101_Green",
+            "magazine": "Mag_AK101_30Rnd_Green",
+            "attachments": [
+                "AK_FoldingBttstck_Green",
+                "AK_RailHndgrd_Green",
+                "UniversalLight",
+                "AK_Suppressor"
+            ],
+            "optic": "PSO1Optic",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_AK74",
+            "weapon": "AK74_Black",
+            "magazine": "Mag_AK74_30Rnd",
+            "attachments": [
+                "AK74_WoodBttstck",
+                "AK74_Hndgrd",
+                "AK_Bayonet"
+            ],
+            "optic": "KobraOptic",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_AKM",
+            "weapon": "AKM",
+            "magazine": "Mag_AKM_Drum75Rnd",
+            "attachments": [
+                "AK_PlasticBttstck",
+                "AK_PlasticHndgrd",
+                "AK_Suppressor"
+            ],
+            "optic": "",
+            "opticbattery": 0
+        },
+        {
+            "defname": "LC_predefined_AKS74U",
+            "weapon": "AKS74U",
+            "magazine": "Mag_AK74_30Rnd",
+            "attachments": [
+                "AK_WoodBttstck",
+                "AK_Suppressor"
+            ],
+            "optic": "",
+            "opticbattery": 0
+        },
+        {
+            "defname": "LC_predefined_CZ527",
+            "weapon": "CZ527_Black",
+            "magazine": "Mag_CZ527_5rnd",
+            "attachments": [
+                ""
+            ],
+            "optic": "HuntingOptic",
+            "opticbattery": 0
+        },
+        {
+            "defname": "LC_predefined_M4A1_GREEN",
+            "weapon": "M4A1_Green",
+            "magazine": "Mag_STANAG_30Rnd",
+            "attachments": [
+                "M4_Suppressor",
+                "M4_MPHndgrd_Green",
+                "M4_OEBttstck_Green"
+            ],
+            "optic": "M68Optic",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_M4A1_BLACK",
+            "weapon": "M4A1_Black",
+            "magazine": "Mag_STANAG_30Rnd",
+            "attachments": [
+                "M4_Suppressor",
+                "M4_RISHndgrd_Black",
+                "M4_MPBttstck_Black",
+                "UniversalLight"
+            ],
+            "optic": "M4_T3NRDSOptic",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_WINCHESTER70",
+            "weapon": "Winchester70",
+            "magazine": "",
+            "attachments": [
+                "ImprovisedSuppressor"
+            ],
+            "optic": "HuntingOptic",
+            "opticbattery": 0
+        },
+        {
+            "defname": "LC_predefined_SVD",
+            "weapon": "SVD",
+            "magazine": "Mag_SVD_10Rnd",
+            "attachments": [
+                ""
+            ],
+            "optic": "KashtanOptic",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_UMP",
+            "weapon": "UMP45",
+            "magazine": "Mag_UMP_25Rnd",
+            "attachments": [
+                "PistolSuppressor"
+            ],
+            "optic": "ReflexOptic",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_CZ61",
+            "weapon": "CZ61",
+            "magazine": "Mag_CZ61_20Rnd",
+            "attachments": [
+                "PistolSuppressor"
+            ],
+            "optic": "",
+            "opticbattery": 0
+        },
+        {
+            "defname": "LC_predefined_MOSIN",
+            "weapon": "Mosin9130",
+            "magazine": "",
+            "attachments": [
+                "ImprovisedSuppressor"
+            ],
+            "optic": "PUScopeOptic",
+            "opticbattery": 0
+        },
+        {
+            "defname": "LC_predefined_SKS",
+            "weapon": "SKS",
+            "magazine": "",
+            "attachments": [
+                ""
+            ],
+            "optic": "PUScopeOptic",
+            "opticbattery": 0
+        },
+        {
+            "defname": "LC_predefined_Saiga",
+            "weapon": "Saiga",
+            "magazine": "Mag_Saiga_Drum20Rnd",
+            "attachments": [
+                "Saiga_Bttstck"
+            ],
+            "optic": "KobraOptic",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_VSS",
+            "weapon": "VSS",
+            "magazine": "Mag_VSS_10Rnd",
+            "attachments": [
+                ""
+            ],
+            "optic": "PSO11Optic",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_GLOCK19",
+            "weapon": "Glock19",
+            "magazine": "Mag_Glock_15Rnd",
+            "attachments": [
+                "TLRLight",
+                "PistolSuppressor"
+            ],
+            "optic": "FNP45_MRDSOptic",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_CZ75",
+            "weapon": "CZ75",
+            "magazine": "Mag_CZ75_15Rnd",
+            "attachments": [
+                "TLRLight",
+                "PistolSuppressor"
+            ],
+            "optic": "FNP45_MRDSOptic",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_Deagle",
+            "weapon": "Deagle_Gold",
+            "magazine": "Mag_Deagle_9rnd",
+            "attachments": [
+                ""
+            ],
+            "optic": "PistolOptic",
+            "opticbattery": 0
+        },
+        {
+            "defname": "LC_predefined_MAGNUM",
+            "weapon": "Magnum",
+            "magazine": "",
+            "attachments": [
+                ""
+            ],
+            "optic": "",
+            "opticbattery": 0
+        },
+        {
+            "defname": "LC_predefined_FNX45",
+            "weapon": "FNX45",
+            "magazine": "Mag_FNX45_15Rnd",
+            "attachments": [
+                "PistolSuppressor"
+            ],
+            "optic": "FNP45_MRDSOptic",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_FAL",
+            "weapon": "FAL",
+            "magazine": "Mag_FAL_20Rnd",
+            "attachments": [
+                "Fal_OeBttstck"
+            ],
+            "optic": "ACOGOptic",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_MP5",
+            "weapon": "MP5K",
+            "magazine": "Mag_MP5_30Rnd",
+            "attachments": [
+                "MP5k_StockBttstck",
+                "MP5_PlasticHndgrd",
+                "PistolSuppressor"
+            ],
+            "optic": "M68Optic",
+            "opticbattery": 1
+        }
+    ],
+    "LootCategories": [
+        {
+            "name": "LC_Table_Weapons_Police",
+            "Loot": [
+                "LC_predefined_GLOCK19",
+                "LC_predefined_CZ75",
+                "LC_predefined_Deagle",
+                "LC_predefined_MAGNUM",
+				"LC_predefined_FNX45",
+                "LC_predefined_UMP",
+                "LC_predefined_CZ61",
+                "LC_predefined_AKS74U",
+                "LC_predefined_MP5"
+            ]
+        },
+        {
+            "name": "LC_Table_Weapons_Army",
+            "Loot": [
+                "LC_predefined_GLOCK19",
+                "LC_predefined_CZ75",
+                "LC_predefined_Deagle",
+                "LC_predefined_MAGNUM",
+				"LC_predefined_FNX45",
+                "LC_predefined_UMP",
+                "LC_predefined_CZ61",
+                "LC_predefined_MP5",
+                "LC_predefined_FAL",
+                "LC_predefined_VSS",
+                "LC_predefined_Saiga",
+                "LC_predefined_SKS",
+                "LC_predefined_MOSIN",
+                "LC_predefined_SVD",
+                "LC_predefined_WINCHESTER70",
+                "LC_predefined_M4A1_BLACK",
+                "LC_predefined_M4A1_GREEN",
+                "LC_predefined_CZ527",
+                "LC_predefined_AKS74U",
+                "LC_predefined_AKM",
+                "LC_predefined_AK74",
+                "LC_predefined_AK101"
+            ]
+        },
+        {
+            "name": "LC_Table_Ammo_Police",
+            "Loot": [
+                "AmmoBox_380_35rnd",
+                "AmmoBox_380_35rnd",
+                "AmmoBox_9x19_25rnd",
+                "AmmoBox_9x19_25rnd",
+                "AmmoBox_45ACP_25rnd",
+                "AmmoBox_45ACP_25rnd",
+                "AmmoBox_357_20Rnd",
+                "AmmoBox_357_20Rnd",
+                "AmmoBox_00buck_10rnd",
+                "AmmoBox_00buck_10rnd",
+                "AmmoBox_12gaSlug_10Rnd",
+                "AmmoBox_12gaSlug_10Rnd",
+                "RDG2SmokeGrenade_White",
+                "M18SmokeGrenade_White",
+                "FlashGrenade"
+            ]
+        },
+        {
+            "name": "LC_Table_Ammo_Army",
+            "Loot": [
+                "AmmoBox_9x19_25rnd",
+                "AmmoBox_9x19_25rnd",
+                "AmmoBox_45ACP_25rnd",
+                "AmmoBox_45ACP_25rnd",
+                "AmmoBox_00buck_10rnd",
+                "AmmoBox_00buck_10rnd",
+                "AmmoBox_12gaSlug_10Rnd",
+                "AmmoBox_12gaSlug_10Rnd",
+                "AmmoBox_556x45_20Rnd",
+                "AmmoBox_556x45Tracer_20Rnd",
+                "AmmoBox_545x39_20Rnd",
+                "AmmoBox_545x39Tracer_20Rnd",
+                "AmmoBox_762x39_20Rnd",
+                "AmmoBox_762x39Tracer_20Rnd",
+                "AmmoBox_762x54_20Rnd",
+                "AmmoBox_762x54Tracer_20Rnd",
+                "AmmoBox_9x39_20Rnd",
+                "AmmoBox_9x39AP_20Rnd",
+                "AmmoBox_308Win_20Rnd",
+                "AmmoBox_308WinTracer_20Rnd",
+                "M18SmokeGrenade_Red",
+                "M18SmokeGrenade_Green",
+                "M18SmokeGrenade_Yellow",
+                "RGD5Grenade",
+                "M67Grenade"
+            ]
+        },
+        {
+            "name": "LC_Table_Magazines_Police",
+            "Loot": [
+                "Mag_CZ75_15Rnd",
+                "Mag_FNX45_15Rnd",
+                "Mag_MKII_10Rnd",
+                "Mag_Ruger1022_10Rnd",
+                "Mag_Ruger1022_15Rnd",
+                "Mag_Ruger1022_30Rnd",
+                "Mag_CZ61_20Rnd",
+                "Mag_Saiga_5Rnd",
+                "Mag_Saiga_8Rnd",
+                "Mag_AK74_30Rnd",
+                "Mag_AK74_30Rnd_black",
+                "Mag_AK74_30Rnd_green",
+                "Mag_CZ527_5rnd",
+                "Mag_Glock_15Rnd",
+                "Mag_Deagle_9rnd",
+                "Mag_UMP_25Rnd",
+                "Mag_MP5_15Rnd",
+                "Mag_MP5_30Rnd",
+                "Mag_STANAG_30Rnd"
+            ]
+        },
+        {
+            "name": "LC_Table_Magazines_Army",
+            "Loot": [
+                "Mag_CZ75_15Rnd",
+                "Mag_FNX45_15Rnd",
+                "Mag_Saiga_8Rnd",
+                "Mag_Saiga_Drum20Rnd",
+                "Mag_AK74_30Rnd",
+                "Mag_AK74_30Rnd_black",
+                "Mag_AK74_30Rnd_green",
+                "Mag_CZ527_5rnd",
+                "Mag_Glock_15Rnd",
+                "Mag_MP5_30Rnd",
+                "Mag_STANAG_30Rnd",
+                "Mag_STANAGCoupled_30Rnd",
+                "Mag_FAL_20Rnd",
+                "Mag_SVD_10Rnd",
+                "mag_vss_10rnd",
+                "Mag_AK101_30Rnd",
+                "Mag_AK101_30Rnd_black",
+                "Mag_AK101_30Rnd_green",
+                "Mag_AKM_Palm30Rnd_Green",
+                "Mag_AKM_Palm30Rnd_Black",
+                "Mag_AKM_Palm30Rnd",
+                "Mag_AKM_30Rnd",
+                "Mag_AKM_Drum75Rnd_Black",
+                "Mag_AKM_Drum75Rnd_Green"
+            ]
+        },
+        {
+            "name": "LC_Table_Attachments_Police",
+            "Loot": [
+                "MP5_PlasticHndgrd",
+                "MP5_RailHndgrd",
+                "M4_PlasticHndgrd_Black",
+                "M4_MPHndgrd_Black",
+                "M4_RISHndgrd_Black",
+                "Saiga_Bttstck",
+                "AK_PlasticBttstck_Black",
+                "AK_Steel_Buttstock",
+                "AK_FoldingBttstck_Black",
+                "MP5k_StockBttstck",
+                "M4_CQBBttstck_Black",
+                "M4_OEBttstck_Black",
+                "M4_MPBttstck_Black",
+                "M4_CarryHandleOptic",
+                "BUISOptic",
+                "FNP45_MRDSOptic",
+                "ReflexOptic",
+                "MP5_Compensator",
+                "PistolSuppressor",
+                "TLRLight",
+                "Universallight"
+            ]
+        },
+        {
+            "name": "LC_Table_Attachments_Army",
+            "Loot": [
+                "M4_RIS_Cover_Black",
+                "M4_RIS_Cover_Green",
+                "AK74_Hndgrd",
+                "AK_WoodHndgrd",
+                "AK_RailHndgrd_Black",
+                "AK_RailHndgrd_Green",
+                "M4_PlasticHndgrd_Black",
+                "M4_PlasticHndgrd_Green",
+                "M4_PlasticHndgrd_Tan",
+                "M4_PlasticHndgrd_White",
+                "M4_MPHndgrd_Black",
+                "M4_MPHndgrd_Green",
+                "M4_RISHndgrd_Black",
+                "M4_RISHndgrd_Green",
+                "Saiga_Bttstck",
+                "AK_PlasticBttstck_Black",
+                "AK_PlasticBttstck_Green",
+                "AK_WoodBttstck",
+                "AK74_WoodBttstck",
+                "AK_Steel_Buttstock",
+                "AK_FoldingBttstck_Black",
+                "AK_FoldingBttstck_Green",
+                "Fal_OeBttstck",
+                "Fal_FoldingBttstck",
+                "M4_CQBBttstck_Black",
+                "M4_CQBBttstck_Green",
+                "M4_OEBttstck_Black",
+                "M4_OEBttstck_Green",
+                "M4_MPBttstck_Black",
+                "M4_MPBttstck_Green",
+                "M68Optic",
+                "ReflexOptic",
+                "M4_T3NRDSOptic",
+                "KobraOptic",
+                "PUScopeOptic",
+                "HuntingOptic",
+                "PSO1Optic",
+                "PSO11Optic",
+                "KashtanOptic",
+                "ACOGOptic",
+                "Mosin_Compensator",
+                "MP5_Compensator",
+                "PistolSuppressor",
+                "AK_Suppressor",
+                "M4_Suppressor",
+                "Universallight"
+            ]
+        },
+        {
+            "name": "LC_Table_Gear_Police",
+            "Loot": [
+                "Battery9V",
+                "BandageDressing",
+                "PersonalRadio",
+                "BallisticHelmet_Black",
+                "UKAssVest_Black",
+                "PoliceCap",
+                "PoliceJacket",
+                "PoliceJacketOrel",
+                "PoliceVest",
+                "PolicePants",
+                "PolicePantsOrel",
+                "PressVest_LightBlue",
+                "PressVest_Blue"
+            ]
+        },
+        {
+            "name": "LC_Table_Gear_Army",
+            "Loot": [
+                "Battery9V",
+                "BandageDressing",
+                "Rangefinder",
+                "BarbedWire",
+                "Canteen",
+                "AmmoBox",
+                "LandMineTrap",
+                "TTsKOJacket_Camo",
+                "BDUJacket",
+                "GorkaEJacket_Autumn",
+                "GorkaEJacket_Summer",
+                "USMCJacket_Desert",
+                "USMCJacket_Woodland",
+                "TTSKOPants",
+                "BDUPants",
+                "USMCPants_Desert",
+                "USMCPants_Woodland",
+                "GorkaPants_Autumn",
+                "GorkaPants_Summer",
+                "AirborneMask",
+                "BallisticHelmet_Black",
+                "BallisticHelmet_Green",
+                "Mich2001Helmet",
+                "HighCapacityVest_Black",
+                "HighCapacityVest_Olive"
+            ]
+        },
+        {
+            "name": "LC_Table_Extra",
+            "Loot": [
+				"StarlightOptic",
+                "KazuarOptic",
+                "NVGoggles"
+            ]
+        },
+		{
+            "name": "LC_Table_Jacob_Food",
+            "Loot": [
+				"PorkCan",
+				"TunaCan",
+				"SardinesCan",
+				"SpaghettiCan",
+				"TacticalBaconCan",
+				"PeachesCan",
+				"BakedBeansCan"
+            ]
+        },
+		{
+            "name": "LC_Table_Jacob_Water",
+            "Loot": [
+				"Canteen",
+				"WaterBottle"
+            ]
+        },
+		{
+            "name": "LC_Table_Jacob_Repair",
+            "Loot": [
+				"DuctTape",
+				"WeaponCleaningKit",
+				"SewingKit",
+				"LeatherSewingKit",
+				"BurlapStrip"
+            ]
+        },
+		{
+            "name": "LC_Table_Jacob_Car",
+            "Loot": [
+				"CarRadiator",
+				"SparkPlug",
+				"CarBattery",
+				"TruckBattery",
+				"BatteryCharger",
+				"TireRepairKit"
+            ]
+        },
+		{
+            "name": "LC_Table_Jacob_Wheel",
+            "Loot": [
+				"Truck_01_WheelDouble",
+				"Truck_01_Wheel",
+				"Sedan_02_Wheel",
+				"Hatchback_02_Wheel",
+				"CivSedanWheel",
+				"HatchbackWheel"
+            ]
+        },
+		{
+            "name": "LC_Table_Jacob_Ammo_Military",
+            "Loot": [
+				"AmmoBox_556x45_20Rnd",
+				"AmmoBox_545x39_20Rnd",
+				"AmmoBox_762x39_20Rnd",
+				"AmmoBox_762x54_20Rnd",
+				"AmmoBox_9x39_20Rnd",
+				"AmmoBox_308Win_20Rnd"
+            ]
+        },
+		{
+            "name": "LC_Table_Jacob_Ammo_Civilian",
+            "Loot": [
+				"AmmoBox_45ACP_25rnd",
+				"AmmoBox_00buck_10rnd",
+				"AmmoBox_9x19_25rnd",
+				"AmmoBox_380_35rnd",
+				"AmmoBox_762x54_20Rnd"
+            ]
+        }
+    ]
+}
