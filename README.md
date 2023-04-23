@@ -3,7 +3,7 @@
 This is collection of configuration files used for our private Namalsk PVE server.
 
 ### NOTE:
-It is worth mentioning that a functional gas mask with a filter installed is required when crossing the choke points (Sebjan Dam and Sebjan Marsh) to the southern part of the island as well as within Athena-3. Full NBC gear is required within Athena
+It is worth mentioning that a functional gas mask with a filter installed is required when crossing the choke points (Sebjan Dam and Sebjan Marsh) to the southern part of the island as well as within Athena-3. Full NBC gear is required within Athena-2.
 
 ## Installation
 
