@@ -30,6 +30,8 @@ mods/@Disable Fuel Pumps;^
 mods/@StaminaSettings;^
 mods/@TruckFixV2;
 
+set servermods=mods/@SpawnerBubaku
+
 start DayZServer_x64.exe ^
  -config=serverDZ.cfg ^
  -port=2302 ^
@@ -39,4 +41,5 @@ start DayZServer_x64.exe ^
  -freezecheck ^
  -limitFPS=200 ^
  -profiles=C:\Users\Admin\Desktop\Servers\DayZ\config ^
- "-mod=%mods%"
+ "-mod=%mods%" ^
+ "-servermod=%servermods%"

@@ -2308,11 +2308,13 @@
     <type name="ZmbM_PatrolNormal_Autumn">
         <cargo preset="toolsmilitary" />
         <cargo preset="ammomilitary" />
+        <cargo preset="ammomilitary" />
         <attachments preset="headsRU" />
         <attachments preset="vestsRU" />
     </type>
     <type name="ZmbM_PatrolNormal_Flat">
         <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
         <cargo preset="ammomilitary" />
         <attachments preset="headsRU" />
         <attachments preset="vestsRU" />
@@ -2320,11 +2322,13 @@
     <type name="ZmbM_PatrolNormal_PautRev">
         <cargo preset="toolsmilitary" />
         <cargo preset="ammomilitary" />
+        <cargo preset="ammomilitary" />
         <attachments preset="headsRU" />
         <attachments preset="vestsRU" />
     </type>
     <type name="ZmbM_PatrolNormal_Summer">
         <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
         <cargo preset="ammomilitary" />
         <attachments preset="headsRU" />
         <attachments preset="vestsRU" />
@@ -2362,11 +2366,13 @@
     <type name="ZmbM_SoldierNormal">
         <cargo preset="toolsmilitary" />
         <cargo preset="ammomilitary" />
+        <cargo preset="ammomilitary" />
         <attachments preset="headsRU" />
         <attachments preset="vestsRU" />
     </type>
     <type name="ZmbM_usSoldier_Officer_Desert">
         <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
         <cargo preset="ammomilitary" />
         <attachments chance="1.00">
             <item name="OfficerHat" chance="1.00" />
@@ -2374,6 +2380,7 @@
     </type>
     <type name="ZmbM_usSoldier_normal_Woodland">
         <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
         <cargo preset="ammomilitary" />
         <attachments preset="headsUS" />
         <attachments preset="vestsUS" />
@@ -2390,17 +2397,20 @@
     <type name="ZmbM_ruSoldier_normal_Woodland1">
         <cargo preset="toolsmilitary" />
         <cargo preset="ammomilitary" />
+        <cargo preset="ammomilitary" />
         <attachments preset="headsRU" />
         <attachments preset="vestsRU" />
     </type>
     <type name="ZmbM_ruSoldier_normal_Woodland2">
         <cargo preset="toolsmilitary" />
         <cargo preset="ammomilitary" />
+        <cargo preset="ammomilitary" />
         <attachments preset="headsRU" />
         <attachments preset="vestsRU" />
     </type>
     <type name="ZmbM_nacSoldier_normal">
         <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
         <cargo preset="ammomilitary" />
         <cargo preset="magsmilitary" />
         <attachments preset="headsNAC" />
@@ -2410,11 +2420,15 @@
         <cargo chance="0.33">
             <item name="GasMask_Filter" chance="1.00" />
         </cargo>
+		<cargo preset="ammomilitary" />
+		<cargo preset="ammomilitary" />
     </type>
     <type name="ZmbM_NBC_Yellow">
         <cargo chance="0.33">
             <item name="GasMask_Filter" chance="1.00" />
         </cargo>
+		<cargo preset="ammomilitary" />
+		<cargo preset="ammomilitary" />
     </type>
     <type name="ZmbM_Santa">
         <attachments chance="1.00">
@@ -2423,18 +2437,34 @@
     </type>
 	<type name="ZmbM_BloodSucker_hardR">
         <cargo preset="bloodsuckerloot" />
+        <cargo preset="ammomilitary" />
+        <cargo preset="ammomilitary" />
+        <cargo preset="ammomilitary" />
     </type>
     <type name="ZmbM_BloodSucker_superhardR">
         <cargo preset="bloodsuckerloot" />
+        <cargo preset="ammomilitary" />
+        <cargo preset="ammomilitary" />
+        <cargo preset="ammomilitary" />
     </type>
     <type name="kck_gromble">
+        <cargo preset="ammomilitary" />
+        <cargo preset="ammomilitary" />
         <cargo preset="ammomilitary" />
     </type>
     <type name="kck_nakedzombie">
         <cargo preset="ammomilitary" />
+        <cargo preset="ammomilitary" />
+        <cargo preset="ammomilitary" />
     </type>
-    <type name="PseudoGiant">
+    <type name="PSEUDOGIANT">
         <cargo preset="stomperloot" />
+        <cargo preset="ammomilitary" />
+        <cargo preset="ammomilitary" />
+        <cargo preset="ammomilitary" />
+        <cargo preset="ammomilitary" />
+        <cargo preset="ammomilitary" />
+        <cargo preset="ammomilitary" />
     </type>
     <type name="ER7_Gauss">
         <attachments chance="1.00">

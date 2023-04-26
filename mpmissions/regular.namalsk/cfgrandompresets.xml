@@ -94,15 +94,31 @@
 		<item name="Ammo_762x54" chance="0.30" />
 		<item name="AmmoBox_762x54_20Rnd" chance="0.20" />
 	</cargo>
-
-	<cargo chance="0.45" name="ammomilitary">
+	
+	<cargo chance="0.38" name="ammomilitary">
 		<item name="Ammo_556x45" chance="0.17" />
 		<item name="Ammo_762x39" chance="0.17" />
-		<item name="Ammo_762x54" chance="0.16" />
+		<item name="Ammo_762x54" chance="0.17" />
 		<item name="Ammo_9x39" chance="0.16" />
-		<item name="Ammo_308Win" chance="0.17" />
+		<item name="Ammo_308Win" chance="0.16" />
 		<item name="Ammo_545x39" chance="0.17" />
 	</cargo>
+
+	<!--
+	<cargo chance="0.38" name="ammomilitary">
+		<item name="Ammo_556x45" chance="0.10" />
+		<item name="Ammo_762x39" chance="0.10" />
+		<item name="Ammo_762x54" chance="0.10" />
+		<item name="Ammo_9x39" chance="0.05" />
+		<item name="Ammo_308Win" chance="0.10" />
+		<item name="Ammo_545x39" chance="0.10" />
+		
+		<item name="AmmoBox_762x54_20Rnd" chance = "0.05" />
+		<item name="AmmoBox_545x39_20Rnd" chance = "0.15" />
+		<item name="AmmoBox_556x45_20Rnd" chance="0.20" />
+		<item name="AmmoBox_380_35rnd" chance="0.05" />
+	</cargo>
+	-->
 
 	<cargo chance="0.10" name="magscivil">
 		<item name="Mag_IJ70_8Rnd" chance="1.00" />
