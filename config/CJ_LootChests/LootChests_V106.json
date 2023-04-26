@@ -761,6 +761,8 @@
             "lootrandomize": 0.2,
             "light": 0,
             "loot": [
+				"AKM",
+			
 				"M4_Suppressor",
 				"M4_Suppressor",
 				
@@ -950,6 +952,8 @@
 				"AugShort",
 				"ASVAL",
 				"ASVAL",
+				
+				"AKM",
 				
 				"Heatpack",
 				"Heatpack",

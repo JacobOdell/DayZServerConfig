@@ -481,6 +481,23 @@
 
     <!-- NAMALSK - AMMO BOXES -->
     <type name="AmmoBox">
+		<cargo preset="ammomilitary" />
+		<cargo preset="ammomilitary" />
+		<cargo preset="ammomilitary" />
+		<cargo preset="ammomilitary" />
+		<cargo preset="ammomilitary" />
+		<cargo preset="ammomilitary" />
+		<cargo preset="ammomilitary" />
+		<cargo preset="ammomilitary" />
+		<cargo preset="ammomilitary" />
+		<cargo preset="ammomilitary" />
+		<cargo preset="ammomilitary" />
+		<cargo preset="ammomilitary" />
+		<cargo preset="ammomilitary" />
+		<cargo preset="ammomilitary" />
+		<cargo preset="ammomilitary" />
+		<cargo preset="ammomilitary" />
+		<cargo preset="ammomilitary" />
         <cargo chance="0.27">
             <item name="Ammo_9x19" chance="1.00" />
         </cargo>
@@ -2367,6 +2384,8 @@
         <cargo preset="toolsmilitary" />
         <cargo preset="ammomilitary" />
         <cargo preset="ammomilitary" />
+        <cargo preset="ammomilitary" />
+        <cargo preset="ammomilitary" />
         <attachments preset="headsRU" />
         <attachments preset="vestsRU" />
     </type>
@@ -2380,6 +2399,8 @@
     </type>
     <type name="ZmbM_usSoldier_normal_Woodland">
         <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+        <cargo preset="ammomilitary" />
         <cargo preset="ammomilitary" />
         <cargo preset="ammomilitary" />
         <attachments preset="headsUS" />
@@ -2396,6 +2417,7 @@
     </type>
     <type name="ZmbM_ruSoldier_normal_Woodland1">
         <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
         <cargo preset="ammomilitary" />
         <cargo preset="ammomilitary" />
         <attachments preset="headsRU" />
@@ -2439,7 +2461,6 @@
         <cargo preset="bloodsuckerloot" />
         <cargo preset="ammomilitary" />
         <cargo preset="ammomilitary" />
-        <cargo preset="ammomilitary" />
     </type>
     <type name="ZmbM_BloodSucker_superhardR">
         <cargo preset="bloodsuckerloot" />
@@ -2450,15 +2471,15 @@
     <type name="kck_gromble">
         <cargo preset="ammomilitary" />
         <cargo preset="ammomilitary" />
-        <cargo preset="ammomilitary" />
     </type>
     <type name="kck_nakedzombie">
-        <cargo preset="ammomilitary" />
         <cargo preset="ammomilitary" />
         <cargo preset="ammomilitary" />
     </type>
     <type name="PSEUDOGIANT">
         <cargo preset="stomperloot" />
+        <cargo preset="ammomilitary" />
+        <cargo preset="ammomilitary" />
         <cargo preset="ammomilitary" />
         <cargo preset="ammomilitary" />
         <cargo preset="ammomilitary" />
