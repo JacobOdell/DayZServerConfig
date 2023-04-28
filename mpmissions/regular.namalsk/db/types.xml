@@ -14552,8 +14552,8 @@
 
   <!-- GENERAL VEHICLE PARTS -->
   <type name="CanisterGasoline">
-    <nominal>6</nominal>
-    <min>5</min>
+    <nominal>3</nominal>
+    <min>2</min>
     <lifetime>2700</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>

@@ -1459,9 +1459,9 @@
         {
             "name": "Athena 2 Trigger: Mutant and NBC",
             "workinghours": "0-24",
-            "triggerpos": "4983.98 46.7462 6609.21",
-            "triggermins": "-150 -10 -150",
-            "triggermaxs": "150 10 150",
+            "triggerpos": "4977.73 48.80 6610.76",
+            "triggermins": "-30 -10 -30",
+            "triggermaxs": "30 10 30",
             "triggerradius": 0.0,
             "triggercylradius": 0.0,
             "triggercylheight": 0.0,

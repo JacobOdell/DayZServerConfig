@@ -1,47 +1,134 @@
 {
-    "MagicCrateExchangeType": "NONE",
-    "MagicCratePrice": 950,
-    "CanCrateChangeLocation": 1,
-    "MinimumRollBeforeFailChance": 1,
-    "BoxFailChance": 80,
-    "PossibleBoxPositions": [{
-            "Position": [
-                11028.5,
-                1023.5,
-                1560.94
-            ],
-            "Orientation": [
-                5.35992, -0.0, -0.0
-            ]
-        },
-        {
-            "Position": [
-                1,
-                5,
-                7
-            ],
-            "Orientation": [
-                87, -0.0, -0.0
-            ]
-        }
-    ],
-    "PossibleBoxItems": [{
-            "Item": "M4A1_Black",
-            "Attachments": [
-                "M4_MPBttstck_Black",
-                "M4_MPHndgrd_Black",
-                "M4_CarryHandleOptic"
-            ],
-            "Mag": "Mag_STANAG_60Rnd"
-        },
-        {
-            "Item": "AKM",
-            "Attachments": [
-                "AK_PlasticBttstck",
-                "AK_PlasticHndgrd"
-            ],
-            "Mag": "Mag_AKM_Drum75Rnd"
-        },
+	"MagicCrateExchangeType": "NONE",
+	"MagicCratePrice": 950,
+	"CanCrateChangeLocation": 1,
+	"MinimumRollBeforeFailChance": 1,
+	"BoxFailChance": 80,
+	"PossibleBoxPositions": [{
+		"Position": [
+			11028.5,
+			1023.5,
+			1560.94
+		],
+		"Orientation": [
+			5.35992, -0.0, -0.0
+		]
+	}],
+	"PossibleBoxItems": [{
+			"Item": "M4A1_Black",
+			"Attachments": [
+				"M4_OEBttstck_Black",
+				"M4_RISHndgrd_Black",
+				"M4_Suppressor",
+				"UniversalLight",
+				"ReflexOptic"
+			],
+			"Mag": "Mag_STANAG_60Rnd"
+		},
+		{
+			"Item": "M4A1_Black",
+			"Attachments": [
+				"M4_OEBttstck_Black",
+				"M4_RISHndgrd_Black",
+				"M4_Suppressor",
+				"UniversalLight",
+				"ReflexOptic"
+			],
+			"Mag": "Mag_STANAG_60Rnd"
+		},
+		{
+			"Item": "M4A1_Black",
+			"Attachments": [
+				"M4_OEBttstck_Black",
+				"M4_RISHndgrd_Black",
+				"M4_Suppressor",
+				"UniversalLight",
+				"ReflexOptic"
+			],
+			"Mag": "Mag_STANAG_60Rnd"
+		},
+		{
+			"Item": "M4A1_Black",
+			"Attachments": [
+				"M4_OEBttstck_Black",
+				"M4_RISHndgrd_Black",
+				"M49A1_Bayonet",
+				"UniversalLight",
+				"ReflexOptic"
+			],
+			"Mag": "Mag_STANAG_60Rnd"
+		},
+		{
+			"Item": "M4A1_Black",
+			"Attachments": [
+				"M4_OEBttstck_Black",
+				"M4_RISHndgrd_Black",
+				"M49A1_Bayonet",
+				"UniversalLight",
+				"ReflexOptic"
+			],
+			"Mag": "Mag_STANAG_60Rnd"
+		},
+		{
+			"Item": "SVAL",
+			"Attachments": [
+				"ReflexOptic",
+				"UniversalLight"
+			],
+			"Mag": "Mag_VAL_20Rnd"
+		},
+		{
+			"Item": "SVAL",
+			"Attachments": [
+				"ReflexOptic",
+				"UniversalLight"
+			],
+			"Mag": "Mag_VAL_20Rnd"
+		},
+		{
+			"Item": "AKM",
+			"Attachments": [
+				"AK_FoldingBttstck_Black",
+				"UniversalLight",
+				"AK_RailHndgrd_Black",
+				"AK_Suppressor",
+				"KobraOptic"
+			],
+			"Mag": "Mag_AKM_Drum75Rnd"
+		},
+		{
+			"Item": "AKM",
+			"Attachments": [
+				"AK_FoldingBttstck_Black",
+				"UniversalLight",
+				"AK_RailHndgrd_Black",
+				"AK_Suppressor",
+				"KobraOptic"
+			],
+			"Mag": "Mag_AKM_Drum75Rnd"
+		},
+		{
+			"Item": "AKM",
+			"Attachments": [
+				"AK_FoldingBttstck_Black",
+				"UniversalLight",
+				"AK_RailHndgrd_Black",
+				"AK_Bayonet",
+				"KobraOptic"
+			],
+			"Mag": "Mag_AKM_Drum75Rnd"
+		},
+		{
+			"Item": "AKM",
+			"Attachments": [
+				"AK_FoldingBttstck_Black",
+				"UniversalLight",
+				"AK_RailHndgrd_Black",
+				"AK_Bayonet",
+				"KobraOptic"
+			],
+			"Mag": "Mag_AKM_Drum75Rnd"
+		},
 		{
 			"Item": "ER7_Gauss",
 			"Attachments": [
@@ -49,6 +136,109 @@
 				"ER7_Scope"
 			],
 			"Mag": "ER7_Gauss_Magazine"
+		},
+		{
+			"Item": "NVGHeadstrap",
+			"Attachments": [
+				"NVGoggles"
+			]
+		},
+		{
+			"Item": "NVGHeadstrap",
+			"Attachments": [
+				"NVGoggles"
+			]
+		},
+		{
+			"Item": "dzn_platecarriervest_nac",
+			"Attachments": [
+				"dzn_platecarrierpouches_nac",
+				"dzn_platecarrierholster_nac",
+				"M67Grenade",
+				"M67Grenade",
+				"M67Grenade",
+				"M67Grenade"
+			]
+		},
+		{
+			"Item": "dzn_platecarriervest_nac",
+			"Attachments": [
+				"dzn_platecarrierpouches_nac",
+				"dzn_platecarrierholster_nac",
+				"M67Grenade",
+				"M67Grenade",
+				"M67Grenade",
+				"M67Grenade"
+			]
+		},
+		{
+			"Item": "BG9V_X25"
+		},
+		{
+			"Item": "BG9V_X25"
+		},
+		{
+			"Item": "dzn_module_card"
+		},
+		{
+			"Item": "dzn_module_lantia"
+		},
+		{
+			"Item": "dzn_module_surge"
+		},
+		{
+			"Item": "dzn_module_ext2"
+		},
+		{
+			"Item": "SewingKit"
+		},
+		{
+			"Item": "LeatherSewingKit"
+		},
+		{
+			"Item": "DuctTape"
+		},
+		{
+			"Item": "Mosin9130_Black"
+		},
+		{
+			"Item": "dzn_meme_banana"
+		},
+		{
+			"Item": "KobraOptic"
+		},
+		{
+			"Item": "KobraOptic"
+		},
+		{
+			"Item": "KobraOptic"
+		},
+		{
+			"Item": "KobraOptic"
+		},
+		{
+			"Item": "KobraOptic"
+		},
+		{
+			"Item": "ReflexOptic"
+		},
+		{
+			"Item": "ReflexOptic"
+		},
+		{
+			"Item": "ReflexOptic"
+		},
+		{
+			"Item": "ReflexOptic"
+		},
+		{
+			"Item": "ReflexOptic"
+		},
+		{
+			"Item": "ReflexOptic"
+		},
+		{
+			"Item": "ReflexOptic"
 		}
-    ]
+	]
 }

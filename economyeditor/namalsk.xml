@@ -284,7 +284,6 @@
                 <zone name="InfectedNBC" smin="0" smax="0" dmin="5" dmax="10" x="6845.83" z="9937.5" r="75" d="2"/>
                 <zone name="InfectedNBC" smin="5" smax="5" dmin="10" dmax="15" x="4991.67" z="6560.57" r="50" d="25"/>
                 <zone name="InfectedNBC" smin="5" smax="5" dmin="25" dmax="35" x="3601.95" z="6603.99" r="50" d="25"/>
-                <zone name="InfectedNBC" smin="5" smax="5" dmin="50" dmax="70" x="11028" z="1571" r="50" d="25"/>
             </territory>
             <territory name="InfectedNakedZombie" visible="1" color="1073720063">
                 <zone name="InfectedNakedZombie" smin="0" smax="0" dmin="0" dmax="3" x="4506.25" z="6668.75" r="250" d="25"/>

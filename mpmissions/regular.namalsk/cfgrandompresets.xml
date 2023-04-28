@@ -95,7 +95,7 @@
 		<item name="AmmoBox_762x54_20Rnd" chance="0.20" />
 	</cargo>
 	
-	<cargo chance="0.25" name="ammomilitary">
+	<cargo chance="0.20" name="ammomilitary">
 		<item name="Ammo_556x45" chance="0.17" />
 		<item name="Ammo_762x39" chance="0.17" />
 		<item name="Ammo_762x54" chance="0.17" />
