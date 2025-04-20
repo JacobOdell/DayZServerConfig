@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>
+    <territory color="4278190080">
+        <zone name="HuntingGround" smin="0" smax="0" dmin="1" dmax="1" x="3712" z="5872" r="2000"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="1" dmax="1" x="3824" z="8544" r="2000"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="1" dmax="1" x="6608" z="9872" r="2000"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="1" dmax="1" x="6384" z="12912" r="2000"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="1" dmax="1" x="9184" z="11488" r="2000"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="1" dmax="1" x="2192" z="13888" r="2000"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="1" dmax="1" x="12368" z="14672" r="2000"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="1" dmax="1" x="13248" z="2784" r="2000"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="1" dmax="1" x="928" z="1248" r="2000"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="1" dmax="1" x="13440" z="6496" r="2000"/>
+        <zone name="Zone_Polarbear" smin="0" smax="0" dmin="30" dmax="50" x="13316.6" z="9696" r="100"/>
+    </territory>
+</territory-type>

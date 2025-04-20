@@ -1,15 +1,11 @@
-set mods=mods/@Namalsk Island;^
-mods/@Namalsk Survival;^
-mods/@CF;^
+set mods=^
+mods/@DeerIsle;^
 mods/@Dabs Framework;^
 mods/@AICFireplaceIndoor;^
-mods/@BuildEverywhere;^
 mods/@dbo_creatures;^
+mods/@CF;^
 mods/@GoreZ;^
-mods/@GRW ER7 Gauss Rifle;^
 mods/@PvZmoD_CustomisableZombies;^
-mods/@SnowOverhaul;^
-mods/@Wolf Packs;^
 mods/@CreepyZombies;^
 mods/@ZomBerry Admin Tools;^
 mods/@Kck Mutant Monsters;^
@@ -17,29 +13,34 @@ mods/@Radio Toggle and Push-to-Talk;^
 mods/@BG_Better9VPlus;^
 mods/@No Force Weapon Raise;^
 mods/@PseudoGiant;^
-mods/@Mystery Box;^
 mods/@Ear-Plugs;^
 mods/@NoTransmitterNoise;^
 mods/@ReducedFireWeaponDamage;^
 mods/@DoubleGunHP;^
-mods/@CJ187-LootChest;^
 mods/@FastFuel;^
 mods/@In-Vehicle-Inventory;^
-mods/@Vehicle_Battery_Realism;^
-mods/@Disable Fuel Pumps;^
+mods/@Repair Vehicle Tank;^
 mods/@StaminaSettings;^
-mods/@TruckFixV2;
+mods/@Winter Livonia;^
+mods/@Winter Chernarus V2;^
+mods/@Winter DeerIsle;^
+mods/@TruckFixV2;^
+mods/@Zens Blood Trail;^
+mods/@WendigoCreature;^
+mods/@AJs Creatures V2;^
+mods/@FlipTransport;
 
-set servermods=mods/@SpawnerBubaku
+REM set servermods=mods/@SpawnerBubaku
 
 start DayZServer_x64.exe ^
  -config=serverDZ.cfg ^
- -port=2302 ^
  -dologs ^
+ -port=2302 ^
  -adminlog ^
  -netlog ^
  -freezecheck ^
  -limitFPS=200 ^
- -profiles=C:\Users\Admin\Desktop\Servers\DayZ\config ^
+ -profiles=C:\Users\Admin\Desktop\Servers\DayZ\DeerIsleWinter\config ^
+ -NoBattlEye ^
  "-mod=%mods%" ^
  "-servermod=%servermods%"

@@ -1,0 +1,6 @@
+{
+    "CONFIG_VERSION": "1",
+    "BloodDropChanceStationary": 0.25,
+    "BloodDropChanceMoving": 0.949999988079071,
+    "BloodDropPersistence": 1800.0
+}

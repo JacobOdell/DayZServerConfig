@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>
+    <territory color="4278190080">
+        <zone name="Zone_Reindeer" smin="0" smax="0" dmin="0" dmax="4" x="4480" z="7216" r="300"/>
+        <zone name="Zone_Reindeer" smin="0" smax="0" dmin="0" dmax="4" x="7472" z="9824" r="300"/>
+        <zone name="Zone_Reindeer" smin="0" smax="0" dmin="0" dmax="4" x="6528" z="12928" r="300"/>
+        <zone name="Zone_Reindeer" smin="0" smax="0" dmin="0" dmax="4" x="10192" z="14912" r="300"/>
+        <zone name="Zone_Reindeer" smin="0" smax="0" dmin="0" dmax="4" x="13552" z="5984" r="300"/>
+        <zone name="Zone_Reindeer" smin="0" smax="0" dmin="0" dmax="4" x="5840" z="4592" r="300"/>
+    </territory>
+</territory-type>

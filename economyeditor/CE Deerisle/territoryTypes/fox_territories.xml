@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>
+    <territory color="4294923520">
+        <zone name="Zone_Fox" smin="0" smax="0" dmin="0" dmax="4" x="5376" z="2624" r="2000"/>
+        <zone name="Zone_Fox" smin="0" smax="0" dmin="0" dmax="4" x="5504" z="5040" r="2000"/>
+        <zone name="Zone_Fox" smin="0" smax="0" dmin="0" dmax="4" x="4768" z="7216" r="2000"/>
+        <zone name="Zone_Fox" smin="0" smax="0" dmin="0" dmax="4" x="3984" z="8784" r="2000"/>
+        <zone name="Zone_Fox" smin="0" smax="0" dmin="0" dmax="4" x="6336" z="14128" r="2000"/>
+        <zone name="Zone_Fox" smin="0" smax="0" dmin="0" dmax="4" x="5472" z="11312" r="2000"/>
+        <zone name="Zone_Fox" smin="0" smax="0" dmin="0" dmax="4" x="7664" z="9568" r="2000"/>
+        <zone name="Zone_Fox" smin="0" smax="0" dmin="0" dmax="4" x="8912" z="12160" r="2000"/>
+        <zone name="Zone_Fox" smin="0" smax="0" dmin="0" dmax="4" x="9088" z="4384" r="2000"/>
+        <zone name="Zone_Fox" smin="0" smax="0" dmin="0" dmax="4" x="9824" z="7104" r="2000"/>
+        <zone name="Zone_Fox" smin="0" smax="0" dmin="0" dmax="4" x="13712" z="6256" r="2000"/>
+        <zone name="Zone_Fox" smin="0" smax="0" dmin="0" dmax="4" x="10032" z="14448" r="2000"/>
+        <zone name="Zone_Fox" smin="0" smax="0" dmin="0" dmax="4" x="14432" z="14336" r="2000"/>
+    </territory>
+</territory-type>
