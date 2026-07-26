@@ -10,7 +10,7 @@ void main()
 	  [Namalsk] Mission time init
 	   after CE init to determine if storage mission type is outside of the required time-frame
 	   currently recommended time-frame is:
-		11/1 -> 11/30
+		12/1 -> 12/31
 		keep in mind that gameplay features are tied to the mission date (stored in the storage) and that it SHOULD remain this period!
 	   while using:
 		day accelerated 6 times (serverTimeAcceleration=6), resulting in an average 78 min of day-time (RL)
@@ -19,10 +19,10 @@ void main()
 	int year, month, day, hour, minute;
 	GetGame().GetWorld().GetDate( year, month, day, hour, minute );
 
-    if ( ( month < 11 ) || ( month >= 12 ) )
+    if ( month < 12 )
     {
     	year = 2011;
-        month = 11;
+        month = 12;
         day = 1;
 		
 		GetGame().GetWorld().SetDate( year, month, day, hour, minute );
@@ -116,6 +116,9 @@ class CustomMission: MissionServer
 		// bump fresh spawn water and energy values (to compensate for the frozen food and harder-to-get wells)
 		player.GetStatWater().Set( 1200 );
 		player.GetStatEnergy().Set( 1500 );
+
+		// add temporal resistance against the common cold
+		player.SetTemporaryResistanceToAgent(eAgents.INFLUENZA, 900);
 	}
 };
   

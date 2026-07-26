@@ -57,6 +57,13 @@
 		<item name="SalineBagIV" chance="0.05" />
 	</cargo>
 
+	<cargo chance="0.10" name="toolspills">
+		<item name="CharcoalTablets" chance="0.25" />
+		<item name="PainkillerTablets" chance="0.25" />
+		<item name="VitaminBottle" chance="0.25" />
+		<item name="TetracyclineAntibiotics" chance="0.25" />
+	</cargo>
+
 	<cargo chance="0.10" name="toolspolice">
 		<item name="BandageDressing" chance="0.10" />
 		<item name="BG9V_X5" chance="0.10" />
@@ -144,8 +151,11 @@
 		<item name="Mag_AKM_Palm30Rnd" chance="0.05" />
 		<item name="Mag_CMAG_30Rnd" chance="0.10" />
 		<item name="Mag_STANAG_30Rnd" chance="0.05" />
+		<item name="Mag_VSS_10Rnd" chance="0.025" />
 		<!-- <item name="Mag_CMAG_40Rnd" chance="0.025" /> -->
 		<item name="Mag_SVD_10Rnd" chance="0.025" />
+		<item name="Mag_VAL_20Rnd" chance="0.025" />
+		<item name="Mag_Vikhr_30Rnd" chance="0.025" />
 		<item name="Mag_STANAG_60Rnd" chance="0.025" />
 		<item name="Mag_AKM_Drum75Rnd" chance="0.025" />
 		<item name="BG9V_X25" chance="0.025" />
@@ -196,10 +206,10 @@
 		<item name="Zagorky" chance="0.14" />
 		<item name="ZagorkyChocolate" chance="0.14" />
 		<item name="ZagorkyPeanuts" chance="0.14" />
-		<item name="dzn_SodaCan_Fronta" chance="0.16" />
-		<item name="dzn_PeachesCan" chance="0.14" />
-		<item name="dzn_Marmalade" chance="0.14" />
-		<item name="dzn_Honey" chance="0.14" />
+		<item name="SodaCan_Fronta" chance="0.16" />
+		<item name="PeachesCan" chance="0.14" />
+		<item name="Marmalade" chance="0.14" />
+		<item name="Honey" chance="0.14" />
 	</cargo>
 	<cargo chance="1.00" name="Gifts_RepairKits">
 		<item name="DuctTape" chance="0.25" />
@@ -295,10 +305,11 @@
 		<item name="dzn_milberet_black" chance="0.10" />
 	</attachments>
 	<attachments chance="0.25" name="vestsNAC">
-		<item name="dzn_ballisticvest_nac" chance="0.25" />
+		<item name="dzn_ballisticvest_nac" chance="0.20" />
 		<item name="dzn_highcapacityvest_nac" chance="0.25" />
 		<item name="dzn_smershvest_black" chance="0.25" />
 		<item name="UKAssVest_Black" chance="0.25" />
+		<item name="PlateCarrierVest_Black" chance="0.05" />
 	</attachments>
 	<!-- army infected - USMC -->
 	<attachments chance="0.70" name="headsUS">
@@ -306,10 +317,10 @@
 		<item name="dzn_milberet_green" chance="0.20" />
 	</attachments>
 	<attachments chance="0.25" name="vestsUS">
-		<item name="UKAssVest_Camo" chance="0.25" />
-		<item name="UKAssVest_Khaki" chance="0.25" />
-		<item name="UKAssVest_Olive" chance="0.25" />
-		<item name="PlateCarrierVest" chance="0.25" />
+		<item name="UKAssVest_Camo" chance="0.30" />
+		<item name="UKAssVest_Olive" chance="0.30" />
+		<item name="UKAssVest_Khaki" chance="0.30" />
+		<item name="PlateCarrierVest" chance="0.10" />
 	</attachments>
 	<!-- army infected - RU -->
 	<attachments chance="0.70" name="headsRU">
@@ -319,7 +330,14 @@
 		<item name="dzn_milberet_specnaz" chance="0.10" />
 	</attachments>
 	<attachments chance="0.25" name="vestsRU">
-		<item name="HighCapacityVest_Olive" chance="0.50" />
 		<item name="SmershVest" chance="0.50" />
+		<item name="HighCapacityVest_Olive" chance="0.45" />
+		<item name="PlateCarrierVest_Green" chance="0.05" />
+	</attachments>
+	<attachments chance="0.25" name="vestsRUCamo">
+		<item name="SmershVest" chance="0.45" />
+		<item name="HighCapacityVest_Olive" chance="0.35" />
+		<item name="PlateCarrierVest_Camo" chance="0.15" />
+		<item name="PlateCarrierVest_Winter" chance="0.05" />
 	</attachments>
 </randompresets>
