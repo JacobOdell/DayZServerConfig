@@ -43,11 +43,11 @@ class CustomMission: MissionServer
 			m_EventManagerServer.OnInitServer( true, 550, 1000, 2 );
 			// registering events and their probability
 			m_EventManagerServer.RegisterEvent( Aurora, 0.85 );
-			m_EventManagerServer.RegisterEvent( Blizzard, 0.15 );
-			m_EventManagerServer.RegisterEvent( ExtremeCold, 0.6 );
-			m_EventManagerServer.RegisterEvent( Snowfall, 0.6 );
-			m_EventManagerServer.RegisterEvent( EVRStorm, 0.30 );
-			m_EventManagerServer.RegisterEvent( HeavyFog, 0.4 );
+			m_EventManagerServer.RegisterEvent( Blizzard, 0.4 );
+			m_EventManagerServer.RegisterEvent( ExtremeCold, 0.4 );
+			m_EventManagerServer.RegisterEvent( SnowfallE, 0.6 );
+			m_EventManagerServer.RegisterEvent( EVRStorm, 0.35 );
+			m_EventManagerServer.RegisterEvent( HeavyFog, 0.3 );
 		}
 	}
 

@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 2,
+    "EnableFiltering": 1,
+    "DebugLog": 0,
+    "EnableHostilityVisionBoost": 1,
+    "PredatorZombieVisionMultiplier": 3.0,
+    "PredatorClasses": [
+        "Animal_CanisLupus",
+        "Animal_CanisLupus_Grey",
+        "Animal_CanisLupus_White",
+        "Animal_UrsusArctos"
+    ],
+    "ZombieClasses": [
+        "DayZInfected",
+        "ZombieBase"
+    ],
+    "ExcludedClasses": []
+}
